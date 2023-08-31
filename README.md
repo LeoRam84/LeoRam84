@@ -4,19 +4,20 @@ Hi 👋 My name is Leonardo
 Front-End Developer
 -----------------------------
 
-          Currently, I am studying programming and seeking a career transition into the technology field. I have a strong interest in continuing
-     my studies and securing a new opportunity in the job market to enhance my skills as a developer and add value to my future employer. My old
-     passion for computers, which originally led me to graduate in Architecture and Urbanism with the intention of working with design and architectural
-     softwares, motivated me to enter in the programming field. Another source of inspiration for this career shift is the high demand for professionals
-     in the national and international job markets. I have five years of continuous English language training from Brasas English Course, and I
-     am proficient in the language. Additionally, I hold a college degree in Law, in addition to the previously mentioned college degree in
-     Architecture and Urbanism.
+          Currently, I am studying programming and seeking a career transition into the technology field. I have a strong interest
+     in continuing my studies and securing a new opportunity in the job market to enhance my skills as a developer and add value
+     to my future employer. My old passion for computers, which originally led me to graduate in Architecture and Urbanism with the
+     intention of working with design and architectural softwares, motivated me to enter in the programming field. Another source
+     of inspiration for this career shift is the high demand for professionals in the national and international job markets. I have
+     five years of continuous English language training from Brasas English Course, and I am proficient in the language. Additionally,
+     I hold a college degree in Law, in addition to the previously mentioned college degree in Architecture and Urbanism.
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [leonardoramidan@hotmail.com](mailto:leonardoramidan@hotmail.com)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Skateboard
+
 
 ### Skills
 
@@ -35,6 +36,7 @@ Front-End Developer
 ### Socials
 
 <p align="left">     
-<a href="https://discord.com/users/Kotzen#4262" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/leonardocram/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/Kotzen#4262" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/leonardocram/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
