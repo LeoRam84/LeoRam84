@@ -4,13 +4,13 @@ Hi 👋 My name is Leonardo
 Front-End Developer
 -----------------------------
 
-     Currently, I am studying programming and seeking a career transition into the technology field. I have a strong interest
-in continuing my studies and securing a new opportunity in the job market to enhance my skills as a developer and add value
-to my future employer. My old passion for computers, which originally led me to graduate in Architecture and Urbanism with the
-intention of working with design and architectural softwares, motivated me to enter in the programming field. Another source
-of inspiration for this career shift is the high demand for professionals in the national and international job markets. I have
-five years of continuous English language training from Brasas English Course, and I am proficient in the language. Additionally,
-I hold a college degree in Law, in addition to the previously mentioned college degree in Architecture and Urbanism.
+         Currently, I am studying programming and seeking a career transition into the technology field. I have a strong interest
+    in continuing my studies and securing a new opportunity in the job market to enhance my skills as a developer and add value
+    to my future employer. My old passion for computers, which originally led me to graduate in Architecture and Urbanism with the
+    intention of working with design and architectural softwares, motivated me to enter in the programming field. Another source
+    of inspiration for this career shift is the high demand for professionals in the national and international job markets. I have
+    five years of continuous English language training from Brasas English Course, and I am proficient in the language. Additionally,
+    I hold a college degree in Law, in addition to the previously mentioned college degree in Architecture and Urbanism.
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
