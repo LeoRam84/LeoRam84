@@ -36,7 +36,7 @@ Front-End Developer
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 </p>
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoRam84&show_icons=true&theme=dracula&count_private=true)
+<!--![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoRam84&show_icons=true&theme=dracula&count_private=true)-->
 
 
 ### Socials
