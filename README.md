@@ -11,7 +11,9 @@ Front-End Developer
     of inspiration for this career shift is the high demand for professionals in the national and international job markets. I have
     five years of continuous English language training from Brasas English Course, and I am proficient in the language. Additionally,
     I hold a college degree in Law, in addition to the previously mentioned college degree in Architecture and Urbanism.
-<br>
+
+
+
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [leonardoramidan@hotmail.com](mailto:leonardoramidan@hotmail.com)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
