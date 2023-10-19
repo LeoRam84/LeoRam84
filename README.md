@@ -10,7 +10,7 @@ Front-End Developer
     intention of working with design and architectural softwares, motivated me to enter in the programming field. Another source
     of inspiration for this career shift is the high demand for professionals in the national and international job markets. I have
     five years of continuous English language training from Brasas English Course, and I am proficient in the language. Additionally,
-    I hold a college degree in Law, in addition to the previously mentioned college degree in Architecture and Urbanism.
+    I hold a college degree in Law.
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
