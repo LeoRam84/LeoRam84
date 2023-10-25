@@ -7,7 +7,7 @@ Front-End Developer
          I am currently expanding my knowledge in web development, focusing on the front-end technologies while not neglecting
     important back-end concepts, such as running JavaScript code outside of a web browser with Node.js, SQL databases (Node.js)
     and NoSQL (MongoDB). At the same time, I am working on some projects in this field, which can be more easily viewed here!
-    I have 5 years of continuous English language education at Brasas English Course, and I am proficient in the language, with
+    I have 5 years of continuous English language education at Brasas English Course, with proficiency in the language, and
     a college degree in Architecture and Urban Planning.
 
 
