@@ -4,13 +4,11 @@ Hi 👋 My name is Leonardo
 Front-End Developer
 -----------------------------
 
-         Currently, I am studying programming and seeking a career transition into the technology field. I have a strong interest
-    in continuing my studies and securing a new opportunity in the job market to enhance my skills as a developer and add value
-    to my future employer. My old passion for computers, which originally led me to graduate in Architecture and Urbanism with the
-    intention of working with design and architectural softwares, motivated me to enter in the programming field. Another source
-    of inspiration for this career shift is the high demand for professionals in the national and international job markets. I have
-    five years of continuous English language training from Brasas English Course, and I am proficient in the language. Additionally,
-    I hold a college degree in Law.
+         I am currently expanding my knowledge in programming, in web development technologies, focusing on the front-end while not
+    neglecting important back-end concepts, such as running JavaScript code outside of a web browser with Node.js, SQL databases
+    (Node.js), and NoSQL (MongoDB). At the same time, I am working on some projects in this field, which can be more easily viewed on
+    my personal GitHub at 'https://github.com/LeoRam84'. I have 5 years of continuous English language education at Brasas English
+    Course, and I am proficient in the language, with a degree in Architecture and Urban Planning.
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
