@@ -7,7 +7,7 @@ Front-End Developer
          Experience in web development, particularly in front-end technologies while not neglecting important back-end
     concepts, such as running JavaScript code outside of a web browser with Node.js, SQL databases (Node.js) and NoSQL
     (MongoDB). I am working on some projects, which can be more easily viewed here! I have 5 years of continuous English
-    language education at Brasas English Course, achieving proficiency, and a college degree in Architecture and Urban Planning.
+    language education at Brasas English Course, achieving proficiency, and bachelor's degrees.
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
