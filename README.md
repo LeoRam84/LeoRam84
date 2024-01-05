@@ -14,6 +14,7 @@ Front-End Developer
 * ✉️  You can contact me at [leonardoramidan@hotmail.com](mailto:leonardoramidan@hotmail.com)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Skateboard
+* 🎸  I love music and my guitars
 
 
 ### Skills
