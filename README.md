@@ -9,7 +9,7 @@ Front-End Developer
     (MongoDB). I am working on some projects, which can be more easily viewed here! I have 5 years of continuous English
     language education at Brasas English Course, achieving proficiency, and bachelor's degrees.
 
-
+* 👨🏻‍💻  Take a look at my portfolio at https://portfolio-leo-chi.vercel.app/
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [leonardoramidan@hotmail.com](mailto:leonardoramidan@hotmail.com)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
