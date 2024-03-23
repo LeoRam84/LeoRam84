@@ -1,7 +1,7 @@
 Hi 👋 My name is Leonardo
 ==========================
 
-Front-End Developer
+Full-Stack Developer
 -----------------------------
 
          Experience in web development, particularly in front-end technologies while not neglecting important back-end
